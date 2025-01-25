@@ -1,0 +1,15 @@
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\bin\Debug\Student_Registration_System__.exe.config
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\bin\Debug\Student_Registration_System__.exe
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\bin\Debug\Student_Registration_System__.pdb
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.csproj.AssemblyReference.cache
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.Properties.Resources.resources
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.csproj.GenerateResource.cache
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.csproj.CoreCompileInputs.cache
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.exe
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.pdb
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\bin\Debug\Guna.UI2.dll
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.Login1.resources
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.Students.resources
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.Departments.resources
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_Registration_System__.Dashboard.resources
+C:\Users\srimali\Desktop\Semester 3\Programming Mni Project\Windows Form 2\Student_Registration_System__\Student_Registration_System__\obj\Debug\Student_.AD82127F.Up2Date
